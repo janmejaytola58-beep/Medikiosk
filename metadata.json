@@ -1,0 +1,7 @@
+{
+  "name": "MediKiosk",
+  "description": "AI-powered patient intake app for hospital waiting rooms with voice/text intake, SOCRATES clinical questioning, document OCR, and doctor-ready summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
